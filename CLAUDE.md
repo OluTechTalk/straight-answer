@@ -6,10 +6,10 @@ PM story: every team has a "just ask the data person" bottleneck, and AI analyst
 
 ## Current status
 <!-- /end-session updates this block. Keep it to 5 lines. -->
-- Phase: Setup (not started)
-- Last session: none
-- Next target: Session 01, scaffold, dataset, schema and metric definitions
-- Blockers: none
+- Phase: P1 Data done, awaiting Olu review (checkpoint 2)
+- Last session: docs/sessions/01-data.md
+- Next target: P2 Ask core (guardrails, question-to-query, DuckDB execution). Needs GOOGLE_GENERATIVE_AI_API_KEY in .env.local
+- Blockers: docs/QUALITY_BAR.md and docs/design-tokens.css missing; .env.local missing
 - Data: all datasets are SYNTHETIC unless the user uploads their own
 
 ## Stack

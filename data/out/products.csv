@@ -1,0 +1,31 @@
+product_id,product_name,category,price,unit_cost
+1,Desk Lamp,Office,63.38,23.64
+2,Notebook Set,Office,14.61,6.31
+3,Standing Mat,Office,38.83,22.01
+4,Monitor Arm,Office,71.06,42.11
+5,Cable Kit,Office,92.74,45.12
+6,Desk Organizer,Office,115.09,43.11
+7,Wireless Mouse,Electronics,47.46,16.84
+8,Mechanical Keyboard,Electronics,62.82,37.89
+9,USB Hub,Electronics,99.02,49.11
+10,Webcam,Electronics,58.14,35.49
+11,Headset,Electronics,45.39,29.19
+12,Portable Charger,Electronics,78.05,44.61
+13,Water Bottle,Home,76.19,46.29
+14,Throw Blanket,Home,103.01,66.79
+15,Plant Pot,Home,34.58,22.32
+16,Wall Clock,Home,61.39,31.25
+17,Candle Set,Home,49.3,20.81
+18,Storage Bin,Home,102.61,49.55
+19,Packing Cubes,Travel,31.94,13.53
+20,Travel Mug,Travel,89.05,43.91
+21,Daypack,Travel,24.92,11.07
+22,Luggage Tag,Travel,100.43,59.06
+23,Sleep Mask,Travel,110.28,52.24
+24,Adapter Plug,Travel,102.05,53.24
+25,Yoga Mat,Fitness,89.08,51.05
+26,Resistance Bands,Fitness,88.36,37.2
+27,Jump Rope,Fitness,8.89,4.9
+28,Foam Roller,Fitness,84.2,33.2
+29,Gym Towel,Fitness,12.58,5.42
+30,Shaker Bottle,Fitness,117.75,50.13
