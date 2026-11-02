@@ -7,7 +7,7 @@ date: 2026-11-02
 summary: A deterministic synthetic dataset and a glossary of metric definitions, with a reference query and a test for every metric.
 pmTakeaway: An analyst can only be graded against a definition of "right", so the definitions come before the model.
 buildTakeaway: A seeded generator plus an independent JS computation gives gold answers that do not depend on any SQL I wrote for the model.
-commit: pending
+commit: https://github.com/OluTechTalk/straight-answer/commit/761cb36
 ---
 
 ## Log post (400-700 words, for the site)
